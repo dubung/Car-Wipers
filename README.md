@@ -7,13 +7,13 @@
 
 ## 1. 데모 영상
 
-### 🔹 전체 동작 데모 (자동 + 수동)
+### 🔹 전체 동작 데모 (자동)
 
 <p align="center">
   <img src="./carwiper1.gif" alt="자동/수동 전체 동작 데모" width="480">
 </p>
 
-### 🔹 추가 동작 데모 (수동 위주)
+### 🔹 추가 동작 데모 (수동)
 
 <p align="center">
   <img src="./carwiper.gif" alt="수동 제어 데모" width="480">
