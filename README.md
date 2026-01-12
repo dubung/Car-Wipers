@@ -10,13 +10,13 @@
 ### 🔹 전체 동작 데모 (자동)
 
 <p align="center">
-  <img src="./carwiper1.gif" alt="자동/수동 전체 동작 데모" width="480">
+  <img src="./Docs/carwiper1.gif" alt="자동/수동 전체 동작 데모" width="480">
 </p>
 
 ### 🔹 추가 동작 데모 (수동)
 
 <p align="center">
-  <img src="./carwiper.gif" alt="수동 제어 데모" width="480">
+  <img src="./Docs/carwiper.gif" alt="수동 제어 데모" width="480">
 </p>
 
 ---
@@ -44,7 +44,7 @@
 프로젝트 전체 구성을 그림으로 나타내면 아래와 같습니다.
 
 <p align="center">
-  <img src="./구성도.png" alt="구성도" width="800">
+  <img src="./Docs/구성도.png" alt="구성도" width="800">
 </p>
 
 - 조이스틱 → 사용자가 원하는 와이퍼 모드/속도 입력
@@ -60,7 +60,7 @@
 ### 4-1. PIN 연결 개요
 
 <p align="center">
-  <img src="./rapi.png" alt="PIN 연결" width="800">
+  <img src="./Docs/rapi.png" alt="PIN 연결" width="800">
 </p>
 
 #### ⬛ 조이스틱
@@ -92,7 +92,7 @@
 STM32CubeMX에서 사용한 주요 핀 설정입니다.
 
 <p align="center">
-  <img src="./cubumx.png" alt="CubeMX 설정" width="800">
+  <img src="./Docs/cubumx.png" alt="CubeMX 설정" width="800">
 </p>
 
 - **조이스틱 (ADC 입력)**
@@ -116,7 +116,7 @@ STM32CubeMX에서 사용한 주요 핀 설정입니다.
 프로그램의 전체 동작 흐름은 아래 순서도와 같습니다.
 
 <p align="center">
-  <img src="./순서도.png" alt="동작 순서도" width="900">
+  <img src="./Docs/순서도.png" alt="동작 순서도" width="900">
 </p>
 
 ### 6-1. 수동 조절 모드
